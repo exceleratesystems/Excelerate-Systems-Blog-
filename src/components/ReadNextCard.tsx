@@ -35,7 +35,7 @@ export const ReadNextCard: React.FC<ReadNextProps> = props => {
     <ReadNextCardArticle className="read-next-card">
       <header className="read-next-card-header">
         <ReadNextCardHeaderTitle>
-          <span>More in</span>{' '}
+          <span>Plus dans</span>{' '}
           <Link to={`/tags/${_.kebabCase(props.tags[0])}/`}>{props.tags[0]}</Link>
         </ReadNextCardHeaderTitle>
       </header>

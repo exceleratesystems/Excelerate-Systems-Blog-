@@ -91,13 +91,10 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
               <ul css={NavStyles} role="menu">
                 {/* TODO: mark current nav item - add class nav-current */}
                 <li role="menuitem">
-                  <Link to="/">Home</Link>
+                  <Link to="/">Articles</Link>
                 </li>
                 <li role="menuitem">
-                  <Link to="/about">About</Link>
-                </li>
-                <li role="menuitem">
-                  <Link to="/tags/getting-started/">Getting Started</Link>
+                  <Link to="/about">Qui somme nous ?</Link>
                 </li>
               </ul>
               {isPost && (
@@ -134,7 +131,7 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
               )}
             </SocialLinks>
             {config.showSubscribe && (
-              <SubscribeButton onClick={this.openModal}>Subscribe</SubscribeButton>
+              <SubscribeButton onClick={this.openModal}>S'abonner</SubscribeButton>
             )}
           </SiteNavRight>
         </nav>

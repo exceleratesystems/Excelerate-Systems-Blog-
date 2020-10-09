@@ -1,15 +1,21 @@
-- id: Ghost
+- id: Zakaria ELBAZI
   avatar: avatars/ghost.png
-  bio: The professional publishing platform
-  twitter: TryGhost
-  facebook: ghost
-  website: https://ghost.org/
-  location: San Francisco
-- id: Another Author
-  avatar: avatars/ghost.png
-  bio: This is another test author with a profile background image
-  twitter: TryGhost
-  facebook: ghost
-  website: https://ghost.org/
-  location: San Francisco
+  bio: Cybersecurity & data science engineer
+  twitter: Zack_Elbazi
+  facebook: Zack_Elbazi
+  website: https://elbazi.me
+  location: Bordeaux, France
   profile_image: img/alex-knight-326705-unsplash.jpg
+- id: Sarah L.CORSELIS
+  avatar: avatars/sarah.png
+  bio: Chargée de projets sécurité et conformité
+  twitter: Sali_Corne
+  location: Bordeaux, France
+  profile_image: 
+- id: Aadel Benyoussef
+  avatar: avatars/aadel.png
+  bio: VP France - Excelerate Systems
+  twitter: https://twitter.com/aadel_ben?lang=fr
+  website: https://www.exceleratesystems.com/
+  location: Bordeaux, France
+

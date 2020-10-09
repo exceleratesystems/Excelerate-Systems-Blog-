@@ -1,3 +1,9 @@
 - id: speeches
   description: Some of the greatest words ever spoken.
   image: img/speeches-cover.jpg
+- id: Search-guard
+  description: Search Guard est un plug-in de sécurité et d'alerting pour l'Elastic Stack conçu pour l'entreprise moderne.
+- id: Elasticsearch
+  description: Moteur de recherche Open Source, Distribué et RESTful basé sur Lucene
+- id: Siren
+  description: une plateforme basée sur Elasticsearch qui fournit des capacités inter-index et inter-systèmes et des fonctionnalités de renseignement d'investigation.

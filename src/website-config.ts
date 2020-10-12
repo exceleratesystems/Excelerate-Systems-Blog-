@@ -62,7 +62,7 @@ const config: WebsiteConfig = {
   twitter: 'https://twitter.com/ExcelSysFrance',
   linkedin: 'linkedin.com/company/excelsysfr/',
   showSubscribe: true,
-  mailchimpAction: 'https://exceleratesystems.us12.list-manage.com/subscribe/post?u=6be2e30b8eed6bd60a6c2555b&amp;id=115c6d0875',
+  mailchimpAction: 'https://exceleratesystems.us12.list-manage.com/subscribe?u=6be2e30b8eed6bd60a6c2555b&id=115c6d0875',
   mailchimpName: 'EXLR8-Blog',
   mailchimpEmailFieldName: 'MERGE0',
   googleSiteVerification: 'GoogleCode',

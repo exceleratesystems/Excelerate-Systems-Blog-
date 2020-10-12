@@ -60,7 +60,7 @@ const config: WebsiteConfig = {
   siteUrl: 'https://gatsby-casper.netlify.com',
   facebook: 'https://www.facebook.com/ExcelerateSystemsFrance',
   twitter: 'https://twitter.com/ExcelSysFrance',
-  linkedin: 'linkedin.com/company/excelsysfr/',
+  linkedin: 'https://linkedin.com/company/excelsysfr/',
   showSubscribe: true,
   mailchimpAction: 'https://exceleratesystems.us12.list-manage.com/subscribe?u=6be2e30b8eed6bd60a6c2555b&id=115c6d0875',
   mailchimpName: 'EXLR8-Blog',

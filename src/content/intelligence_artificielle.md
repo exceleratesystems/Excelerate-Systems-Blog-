@@ -53,7 +53,7 @@ Ces singularités se développeraient dans les domaines des intelligences créat
 
 Nos optimismes volontaires ne peuvent pas évoluer sans une prise de conscience de nos responsabilités individuelles et collectives, où la raison et l’éthique seraient suffisants. Sans devoir rappeler que « science sans conscience, n’est que ruine de l’âme. »
 
-La question qui subsistera : Est-ce que l’I.A sera intelligente un jour ?
+La question qui subsistera : **Est-ce que l’I.A sera intelligente un jour ?**
 
 Je conclue par cette phrase de Ibn Roshd (Averroès) : `Il existe des conceptions vulgaires tout à fait suffisantes pour la vie pratique ; elles doivent même être la nourriture des hommes. Elles ne suffisent cependant pas à l'intelligence.` "Physique"
 > <span>Photo by <a href="https://unsplash.com/@maurosbicego?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Mauro Sbicego</a> on <a href="https://unsplash.com/s/photos/ai?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>

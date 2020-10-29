@@ -3,9 +3,9 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: 'Excelerate Systems',
-    description: 'une entreprise leader dans le domaine de big data, cloud, sécurité et mobile',
-    siteUrl: 'https://excelerate.systems/', // full path to blog - no ending slash
+    title: 'Excelerate Systems | Blog',
+    description: 'Data Intelligence, A.I & Open source',
+    siteUrl: 'https://excelerate.systems', // full path to blog - no ending slash
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',

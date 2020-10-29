@@ -53,11 +53,11 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   title: 'Excelerate Systems blog',
-  description: '',
+  description: 'Data Intelligence, A.I & Open source',
   coverImage: 'img/blog-cover.png',
   logo: 'img/ghost-logo.png',
   lang: 'fr',
-  siteUrl: 'https://gatsby-casper.netlify.com',
+  siteUrl: 'https://excelerate.systems/',
   facebook: 'https://www.facebook.com/ExcelerateSystemsFrance',
   twitter: 'https://twitter.com/ExcelSysFrance',
   linkedin: 'https://linkedin.com/company/excelsysfr/',

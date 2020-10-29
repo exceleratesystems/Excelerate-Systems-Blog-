@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     title: 'Excelerate Systems',
     description: 'une entreprise leader dans le domaine de big data, cloud, sécurité et mobile',
-    siteUrl: 'https://gatsby-casper.netlify.com', // full path to blog - no ending slash
+    siteUrl: 'https://excelerate.systems/', // full path to blog - no ending slash
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
@@ -54,7 +54,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://gatsby-casper.netlify.com',
+        siteUrl: 'https://excelerate.systems',
       },
     },
     'gatsby-plugin-emotion',

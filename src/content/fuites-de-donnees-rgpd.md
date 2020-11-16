@@ -31,6 +31,7 @@ Pour aller plus loin : des fonctionnalités plus abouties existent qui faciliter
 ### Fonctionnalités de conformité:
 
 1. Historique de lecture
+
 Permet de connaître exactement quels champs dans les documents ont été consultés, et par quel utilisateur.
 
 Cette fonctionnalité aide à répondre à plusieurs points de conformité imposés par le Règlement Général sur la Protection des Données.

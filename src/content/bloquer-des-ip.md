@@ -84,7 +84,7 @@ curl -u admin:admin \
 
 Comme pour tous les changements de configuration de Search Guard, toute mise à jour des paramètres des blocs prendra effet immédiatement. Si votre cluster est menacé, par exemple par des attaques brute-force sur les comptes utilisateurs ou par des attaques DDOS, vous pouvez ajouter et supprimer des blocs immédiatement.
 
-### Pour aler plus loin
+### Pour aller plus loin
 
 - Lire [la documentation sur les blocs](https://docs.search-guard.com/latest/main-concepts#block-user--ip-addressnet-mask) pour plus d'exemples 
 - Consultez [la documentation de l'API REST Blocs](https://docs.search-guard.com/latest/rest-api-blocks)

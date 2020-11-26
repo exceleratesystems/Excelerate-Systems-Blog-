@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bloquer des IPs dans Elasticsearc avec SearchGuard'
-author: [Sarah L.CORSELIS,Aadel Benyoussef]
+author: [Zakaria ELBAZI]
 image: img/wall.jpg
 date: '2020-11-26T23:46:37.121Z'
 draft: false

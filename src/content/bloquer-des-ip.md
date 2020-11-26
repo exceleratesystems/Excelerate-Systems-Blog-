@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bloquer des IPs dans Elasticsearc avec SearchGuard'
-author: [Sarah L.CORSELIS]
+author: [Sarah L.CORSELIS,Aadel Benyoussef]
 image: img/wall.jpg
 date: '2020-11-26T23:46:37.121Z'
 draft: false
@@ -9,7 +9,7 @@ tags:
   - Search-guard
   - Tips
 ---
-Bloquer l'accès à Elasticsearch pour des IP spécifiques ou des plages d'IP.
+### **Bloquer l'accès à Elasticsearch pour des IP spécifiques ou des plages d'IP.**
 
 Search Guard fournit un chiffrement TLS et un contrôle d'accès basé sur les rôles (RBAC) à toutes les données stockées dans Elasticsearch. Cela empêche les utilisateurs non autorisés d'accéder aux données de votre cluster Elasticsearch.
 

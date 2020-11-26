@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bloquer des IPs dans Elasticsearch avec SearchGuard'
+title: 'Bloquer des IPs dans Elasticsearch avec SearchGuard™'
 author: [Zakaria ELBAZI]
 image: img/wall.jpg
 date: '2020-11-26T23:46:37.121Z'

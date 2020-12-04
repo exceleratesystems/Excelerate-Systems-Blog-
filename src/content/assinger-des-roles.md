@@ -3,7 +3,7 @@ layout: post
 title: 'Assigner des rôles basés sur des ips ou des noms d’hôtes'
 author: [Zakaria ELBAZI]
 image: img/host.jpg
-date: '2020-12-04T23:46:37.121Z'
+date: '2020-12-04T23:00:37.121Z'
 draft: false
 tags:
   - Search-guard
@@ -71,7 +71,7 @@ sg_all_access:
     - "127.0.0.1"
 
 ```
-### **Avancé : Recherche par nom d'hôte **
+### **Avancé : Recherche par nom d'hôte**
 Search Guard propose trois modes différents de résolution du nom d'hôte réel par rapport à la cartographie des hôtes configurée.
 
 - Ip-only Match : Adresses IP uniquement. Par défaut.
@@ -82,8 +82,8 @@ Search Guard propose trois modes différents de résolution du nom d'hôte réel
 Cela peut être configuré dans sg_config.yml :
 ```
 searchguard
-  dynamic
-    hosts_resolver_mode: <mode>
+        dynamic
+            hosts_resolver_mode: <mode>
 ```
 
 ### Pour aller plus loin : 

@@ -3,7 +3,7 @@ layout: post
 title: 'Assigner des rôles basés sur des ips ou des noms d’hôtes'
 author: [Zakaria ELBAZI]
 image: img/host.jpg
-date: '2020-12-04T23:00:37.121Z'
+date: '2020-12-03T23:00:37.121Z'
 draft: false
 tags:
   - Search-guard

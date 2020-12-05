@@ -1,4 +1,4 @@
-# gatsby-casper
+# Excelerate System blog built with gatsby-casper
 
 Demo: https://gatsby-casper.netlify.app
 

@@ -13,8 +13,8 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: '12.x'
+    - run : npm install -g gatsby-cli  
     - run: npm install
-    - run: npm run build --if-present
-    - run: npm test
+    - run: gatsby build
       env:
         CI: true
